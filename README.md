@@ -45,4 +45,6 @@ BFS, Stack, DFS 연습
 PriorityQueue, Stack
 Floyd 연습
 
-
+#### 221026
+Stack 연습 > 후위순회 계산 방식은 연산자 랭킹이 필요하다! 메모
+Two Pointer 연습 > 생각을 좀 넓히자!
